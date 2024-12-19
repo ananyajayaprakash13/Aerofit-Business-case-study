@@ -26,5 +26,17 @@ Product Portfolio:
 - The KP481 is for mid-level runners that sell for $1,750.
 - The KP781 treadmill is having advanced features that sell for $2,500.
 
-Business case colab link ---> https://colab.research.google.com/drive/1W-webNxkfKnYvYIbG2Vqng5KmNVFQPji?usp=sharing
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# 📝 Final Recommendations
+
+1. For female customers, **KP281** should be the first recommendation.
+2. Encourage customers who plan to use the treadmill at least 3-4 times a week to consider purchasing **KP781**, with guidance on proper usage and fitness routines for safety and satisfaction.
+3. Target individuals with a fitness level of 3 or above for **KP781** and offer support for those who need to improve their fitness levels.
+4. Since most customers who bought **KP781** are male, focus marketing efforts towards males but don't exclude females entirely.
+
+
+## 📂 Business Case Colab Link
+Access the full Business Case analysis here:  
+[Business Case Colab Link](https://colab.research.google.com/drive/1W-webNxkfKnYvYIbG2Vqng5KmNVFQPji?usp=sharing)
+
 
