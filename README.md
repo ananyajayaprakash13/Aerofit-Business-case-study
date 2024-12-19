@@ -26,3 +26,5 @@ Product Portfolio:
 - The KP481 is for mid-level runners that sell for $1,750.
 - The KP781 treadmill is having advanced features that sell for $2,500.
 
+Business case colab link ---> https://colab.research.google.com/drive/1W-webNxkfKnYvYIbG2Vqng5KmNVFQPji?usp=sharing
+
